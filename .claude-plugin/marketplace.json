@@ -1,47 +1,20 @@
 {
-  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
-  "name": "praexo",
+  "name": "praexo-plugins",
   "owner": {
     "name": "Marc Leon",
-    "email": "marc@praexo.com",
-    "url": "https://praexo.com"
+    "email": "marc@praexo.com"
   },
-  "metadata": {
-    "description": "Praexo — research, reporting, and advisory plugins for Claude. Built for partners, advisors, and operators who need vertical-grade analysis with consistent brand output.",
-    "version": "0.1.0",
-    "pluginRoot": "./"
-  },
-  "homepage": "https://praexo.com",
-  "repository": "https://github.com/PRX2026/claude-plugins",
-  "keywords": [
-    "research",
-    "advisory",
-    "private-equity",
-    "business-analysis",
-    "value-chain",
-    "ai-disruption",
-    "praexo"
-  ],
+  "description": "Praexo research and reporting plugins — independent research analysis and branded Praexo report generation",
   "plugins": [
     {
       "name": "praexo-research",
       "source": "./praexo-research",
-      "description": "Deep research and analysis for companies, sectors, value chains, and AI disruption. Six-pass methodology with primary-source bias. Outputs structured markdown notes ready for downstream use — reports, briefs, M&A memos, BD prep.",
-      "version": "0.1.0",
-      "author": { "name": "Marc Leon", "email": "marc@praexo.com" },
-      "license": "MIT",
-      "category": "research",
-      "tags": ["research", "company-analysis", "sector-analysis", "value-chain", "ai-disruption"]
+      "description": "Deep research and analysis for companies, sectors, value chains, and AI disruption. Outputs structured research notes (markdown) for downstream use."
     },
     {
       "name": "praexo-report",
       "source": "./praexo-report",
-      "description": "Praexo-branded Word report generator. Takes research notes and produces 55-65 page or 8-12 page .docx deliverables with full Praexo brand styling.",
-      "version": "0.1.0",
-      "author": { "name": "Marc Leon", "email": "marc@praexo.com" },
-      "license": "MIT",
-      "category": "productivity",
-      "tags": ["report-generation", "docx", "branded-output", "praexo-brand"]
+      "description": "Praexo-branded Word report generator. Takes research notes or analysis input and produces a 55-65 page .docx in Praexo brand style."
     }
   ]
 }
