@@ -5,15 +5,15 @@ Edit it directly for small fixes, or re-run `/praexo-report:cold-start-interview
 
 ## Identity
 
-- **Firm:** [TBD — e.g. Praexo Management BV / Praexo Consulting LLC]
-- **Default author name:** [TBD — e.g. Marc Leon]
-- **Default author title:** [TBD — e.g. Managing Partner]
+- **Firm:** Praexo Management BV
+- **Default author name:** Marc de Kuyper
+- **Default author title:** Managing Partner
 
 ## Brand
 
-- **Template name:** [TBD — e.g. Praexo Standard Research Report]
+- **Template name:** Praexo Research Report
 - **Brand reference file:** `references/praexo-brand-spec.md` (in this plugin)
-- **Logo path:** [TBD — e.g. assets/praexo-logo.png — must exist in plugin assets/ folder]
+- **Logo path:** https://praexomgnt.com/wp-content/uploads/2026/01/Praexo-Logo-Color-scaled.png
 - **Cover page subtitle convention:** [TBD — e.g. "Deep Research Report — Praexo Research"]
 
 ## Report defaults
