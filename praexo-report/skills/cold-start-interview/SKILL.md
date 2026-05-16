@@ -34,7 +34,7 @@ If they upload a different brand spec, read it and adapt the references file. If
 - Default section structure (confirm or modify the 12-section framework)
 - Required table count (default minimum 7)
 - Output path (where the .docx lands)
-- Filename convention (default `Praexo_[Subject]_[YYYY-MM-DD].docx`)
+- Filename convention (default `[YYYY-MM-DD] Praexo-[Subject].docx`)
 
 ### 4. Voice intensity
 
