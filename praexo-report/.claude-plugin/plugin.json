@@ -1,6 +1,6 @@
 {
-  "name": "praexo-research",
-  "description": "Deep research analysis for companies, sectors, and industries. Six-pass methodology with primary-source bias. Outputs structured research notes (markdown) ready for downstream use — reports, briefs, M&A memos, BD prep.",
+  "name": "praexo-report",
+  "description": "Praexo-branded Word report generator. Takes research notes (from praexo-research or hand-curated) and produces a 55-65 page .docx in Praexo brand style with full TOC, branded headings, tables, and special boxes.",
   "version": "0.1.0",
   "author": {
     "name": "MDK",
