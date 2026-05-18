@@ -1,1 +1,10 @@
-
+{
+  "name": "praexo-research",
+  "description": "Deep research analysis for companies, sectors, and industries. Six-pass methodology with primary-source bias. Outputs structured research notes (markdown) ready for downstream use — reports, briefs, M&A memos, BD prep.",
+  "version": "0.1.0",
+  "author": {
+    "name": "MDK",
+    "email": "plugins@praexo.com"
+  },
+  "license": "MIT"
+}
