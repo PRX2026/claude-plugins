@@ -1,4 +1,4 @@
-# Praexo Plugins — Architecture & Usage Guide
+# Praexo Plugins — Architecture & Usage Guide 2
 
 **Version:** v0.1
 **Status:** Reference implementation ready to install and refine
